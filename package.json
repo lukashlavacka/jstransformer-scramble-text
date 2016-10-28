@@ -1,0 +1,21 @@
+{
+  "name": "jstransformer-scramble-text",
+  "version": "0.0.1",
+  "description": "scramble-text support for JSTransformers",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukashlavacka/jstransformer-scramble-text.git"
+  },
+  "keywords": [
+    "jstransformer",
+    "scramble-text"
+  ],
+  "author": "Lukas Hlavacka",
+  "license": "ISC",
+  "dependencies": {
+    "scramble-text": "lukashlavacka/jstransformer-scramble-text"
+  }
+}
